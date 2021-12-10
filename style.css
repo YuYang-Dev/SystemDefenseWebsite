@@ -1,0 +1,36 @@
+body
+{
+    background-color: #b3daff;
+    font-size: 20px;
+}
+
+.GameNameAndVersion
+{
+    font-size: 30px;
+}
+
+.GameDownload
+{
+    padding-left: 0px;
+    width: auto;
+    display: flex;
+    justify-content:space-around;
+}
+
+.DownloadButton
+{
+    font-size: 30px;
+    margin-right: 420px;
+    padding-top: 25px;
+    width: auto;
+}
+
+.EstimatedReleaseDate
+{
+    
+    padding-top: 15px;
+        padding-left: 0px;
+    padding-right: 150px;
+      width: auto;
+    font-size: 22px;
+}
