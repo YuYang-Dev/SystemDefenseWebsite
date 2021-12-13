@@ -20,17 +20,29 @@ body
 .DownloadButton
 {
     font-size: 30px;
-    margin-right: 420px;
-    padding-top: 25px;
+    margin-left: 240px;
     width: auto;
 }
 
 .EstimatedReleaseDate
 {
-    
-    padding-top: 15px;
-        padding-left: 0px;
-    padding-right: 150px;
-      width: auto;
     font-size: 22px;
+    color: gray;
+    padding-bottom: 15px;
+    padding-left: 100px;
+}
+
+.DownloadArea
+{
+    
+}
+
+.EstimatedReleaseDateArea
+{
+    margin-left: 170px;
+}
+
+#GameName
+{
+    font-size: 48px;
 }
